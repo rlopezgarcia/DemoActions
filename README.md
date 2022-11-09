@@ -19,6 +19,7 @@ _Create a GitHub Action and use it in a workflow._
 -->
 
 <!--step0
+Testing workflow
 
 Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
 
